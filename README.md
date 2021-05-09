@@ -1,2 +1,2 @@
 # Harold-Machado.github.io
-repositorio par mi Resumen Curricular
+repositorio para mi Resumen Curricular
